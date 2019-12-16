@@ -1,6 +1,7 @@
 # Parallel Programming project
 Parallel implementation of a genetic algorithm for 
 the reconstruction of an image using the minimal possible amount of polygons.
+Check our [report](Report_Parallel_C.pdf) for more details about the implementation and results.
 
 ## Compilation
 
